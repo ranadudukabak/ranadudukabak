@@ -1,8 +1,7 @@
-Hi there 👋
+Hi 👋 I'm Rana Dudu Kabak!
 
-
-- 🔭 I’m currently working on blockchain
-- 🌱 I’m currently learning javascript
+- 🔭 I’m currently working on blockchain.
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me: ranadudukabak@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
