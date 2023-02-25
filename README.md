@@ -13,7 +13,7 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering depa
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-<br />
+
 [linkedin]: www.linkedin.com/in/ranadudukabak
 [medium]: https://medium.com/@ranadudukabak
 [gmail]: mailto:ranadudukabak@gmail.com
@@ -42,13 +42,4 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering depa
 
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ranadudukabak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranadudukabak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-
-[![Rana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranadudukabak&theme=blue-green)](https://github.com/ranadudukabak/github-readme-stats)
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=ranadudukabak&show_icons=true&theme=gradient) 
 
