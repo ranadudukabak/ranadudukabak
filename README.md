@@ -1,18 +1,17 @@
 ## Hi 👋 I'm Rana Dudu Kabak!
 
-I'm a senior student 👨‍🎓 at Kocaeli University computer engineering department.
+I'm a senior student 👨‍🎓 at Kocaeli University computer 💻 engineering department.
 
 - 🔭 I’m currently working on a blockchain project.
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: ranadudukabak@gmail.com
 - ⚡ Fun fact: I love to play violin and table tennis
 
-## ⏲ What am I doing now:
-I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
-I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻,
-I also work as a FreeLancer 🆓.
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="320" />
+
+## ⏲ What am I doing now:
+
+I'm developing a project for TUBITAK 🚀, with my team 👨🏼‍🤝‍👨🏻.
 
 ### 📩 Connect with me:
 
