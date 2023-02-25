@@ -6,7 +6,7 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering 💻
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: ranadudukabak@gmail.com
 - ⚡ Fun fact: I love to play violin and table tennis
-<img align="right" alt="GIF" src="[C:\Users\ranad\Downloads\giphy.gif](https://www.google.com/search?q=programmer+gif&tbm=isch&hl=tr&sa=X&ved=2ahUKEwi5-Y_OlrH9AhU8_7sIHYHxCwIQrNwCKAB6BQgBEP8C&biw=1688&bih=793#imgrc=u4f4InGhWp1pmM)" width="425" height="320" />
+<img align="right" alt="GIF" src="https://tr.pinterest.com/pin/567523990538356835/" width="425" height="320" />
 
 ## ⏲ What am I doing now:
 
