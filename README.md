@@ -19,7 +19,6 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering depa
 [gmail]: mailto:ranadudukabak@gmail.com
 
 <br />
-<br />
 
 ### 🔧 Languages and Tools:
 
@@ -31,7 +30,6 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering depa
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 
 <br />
-<br />
 
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
@@ -41,11 +39,9 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering depa
 [python]: https://www.python.org/
 
 <br />
-<br />
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ranadudukabak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
 
-<br />
 <br />
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranadudukabak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
