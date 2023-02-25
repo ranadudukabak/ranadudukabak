@@ -1,4 +1,4 @@
-          ## Hi 👋 I'm Rana Dudu Kabak!
+   ## Hi 👋 I'm Rana Dudu Kabak!
 
 I'm a senior student 👨‍🎓 at Kocaeli University computer engineering department.
 
