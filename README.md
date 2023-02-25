@@ -1,6 +1,6 @@
 Hi 👋 I'm Rana Dudu Kabak!
 
-- 🔭 I’m currently working on blockchain.
+- 🔭 I’m currently working on a blockchain project.
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: ranadudukabak@gmail.com
 
