@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Rana Dudu Kabak!
 
-I'm a senior student 👨‍🎓 at Kocaeli University computer 💻 engineering department.
+I'm a senior student 👨‍🎓 at Kocaeli University computer engineering 💻 department.
 
 - 🔭 I’m currently working on a blockchain project.
 - 🌱 I’m currently learning javascript.
