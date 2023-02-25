@@ -6,8 +6,7 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering 💻
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: ranadudukabak@gmail.com
 - ⚡ Fun fact: I love to play violin and table tennis
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="320" />
+- <img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxZDM3MTYzNjgwODg4ZjVkMjU1NWYxOTRkM2Q4MDU2MTcyN2Y0NSZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif)" width="425" height="320" />
 
 ## ⏲ What am I doing now:
 
