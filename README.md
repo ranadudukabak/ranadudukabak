@@ -7,7 +7,7 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering depa
 - 📫 How to reach me: ranadudukabak@gmail.com
 - ⚡ Fun fact: I love to play violin and table tennis
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
+<img align="top" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
 
 ### 📩 Connect with me:
 
