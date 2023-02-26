@@ -11,7 +11,7 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering 💻
 
 ## ⏲ What am I doing now:
 
-I'm developing a project for TUBITAK 🚀, with my team 👨🏼‍🤝‍👨🏻.
+I'm developing a project for TUBITAK 🚀 with my team 👨🏼‍🤝‍👨🏻.
 
 ### 📩 Connect with me:
 
