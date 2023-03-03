@@ -7,7 +7,7 @@ I'm a senior student 👨‍🎓 at Kocaeli University computer engineering 💻
 - 🔭 I’m currently working on a blockchain project.
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: ranadudukabak@gmail.com
-- ⚡ Fun fact: I love to play the violin and play table tennis.
+- ⚡ Fun fact: I love to play the violin 🎻 and play table tennis 🏓
 
 ## ⏲ What am I doing now:
 
