@@ -48,7 +48,7 @@ I'm developing a project for TUBITAK 🚀 with my team 👨🏼‍🤝‍👨�
 
 <br />
 
-<p align="center">
+<p>
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
