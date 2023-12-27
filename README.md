@@ -8,8 +8,6 @@
 
 I graduated 👨‍🎓 from Kocaeli University computer engineering 💻 department at June 2023. ksdhfkjdshfkhdjfhkdjaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-</br>
-
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: ranadudukabak@gmail.com
 - ⚡ Fun fact: I love to play the violin 🎻 and play table tennis 🏓
