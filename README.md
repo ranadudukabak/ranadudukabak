@@ -1,7 +1,7 @@
  ### <div align="center">Hi 👋 I'm Rana Dudu Kabak!</div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="center" height="300" width="400" />
+<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" align="center" height="300" width="400" />
 </div>
 
 ### 👩🏻‍💻 About Me
