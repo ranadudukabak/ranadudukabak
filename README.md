@@ -6,7 +6,7 @@
 
 ### 👩🏻‍💻 About Me
 
-I graduated 👨‍🎓 from Kocaeli University computer engineering 💻 department at June 2023. ksdhfkjdshfkhdjfhkdjaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+I graduated from Kocaeli University computer engineering department at June 2023.
 
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: ranadudukabak@gmail.com
