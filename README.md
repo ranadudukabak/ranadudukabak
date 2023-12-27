@@ -4,6 +4,10 @@
 <img src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966" align="center" height="300" width="400" />
 </div>
 
+### 👩🏻‍💻 About Me
+
+I graduated 👨‍🎓 from Kocaeli University computer engineering 💻 department at June 2023.
+
 ### <div align="center">I graduated 👨‍🎓 from Kocaeli University computer engineering 💻 department at June 2023.</div>
 
 - 🌱 I’m currently learning Web Development 
