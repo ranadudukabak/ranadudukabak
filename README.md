@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="240" />
 
-## Hi 👋 I'm Rana Dudu Kabak!
+### Hi 👋 I'm Rana Dudu Kabak!
 
 I graduated 👨‍🎓 from Kocaeli University computer engineering 💻 department at June 2023.
 
