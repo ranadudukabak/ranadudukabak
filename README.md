@@ -4,23 +4,28 @@
 <img src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966" align="center" height="300" width="400" />
 </div>
 
- ### <div align="center">I graduated 👨‍🎓 from Kocaeli University computer engineering 💻 department at June 2023.</div>
+### <div align="center">I graduated 👨‍🎓 from Kocaeli University computer engineering 💻 department at June 2023.</div>
 
+- 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: ranadudukabak@gmail.com
 - ⚡ Fun fact: I love to play the violin 🎻 and play table tennis 🏓
 
-## ⏲ What am I doing now:
-
-I am developing myself in the backend development field.
-
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-[linkedin]: www.linkedin.com/in/ranadudukabak
-[medium]: https://medium.com/@ranadudukabak
-[gmail]: mailto:ranadudukabak@gmail.com
+<div align="center">
+<a href="https://github.com/ranadudukabak" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/ranadudukabak/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/14545110/ranadudukabak" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@ranadudukabak" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 <br />
 
