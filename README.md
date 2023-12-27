@@ -29,25 +29,6 @@
 
 <br />
 
-### s GitHub Stats
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=IremYurtlugil&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
-
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranadudukabak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ranadudukabak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-
-<br />
-
-<p>
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
 ### 🔧 Languages and Tools:
 
 <table><tr><td valign="top" width="33%">
@@ -85,5 +66,24 @@
 </td></tr></table>  
 
 <br/>  
+
+### s GitHub Stats
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=IremYurtlugil&&style=flat-square" align="center" />
+</div>  
+  
+<br/>  
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranadudukabak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ranadudukabak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+
+<br />
+
+<p>
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 
